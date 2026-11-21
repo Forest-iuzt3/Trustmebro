@@ -1,0 +1,22 @@
+# Build output
+target/
+
+# Local databases and backups
+*.db
+*.db-journal
+
+# Office lock files
+~$*
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+nbproject/
+
+# OS files
+Thumbs.db
+.DS_Store
